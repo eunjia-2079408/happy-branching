@@ -8,5 +8,3 @@ branching
 
 ## Switch to test-branch:
 `git checkout test-branch`
-
-## making changes
